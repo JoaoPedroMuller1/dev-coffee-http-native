@@ -1,0 +1,14 @@
+{
+  "name": "dev-coffee-http-native",
+  "version": "1.0.0",
+  "description": "API RESTful em memória para a fila de pedidos da Dev Coffee, construída apenas com módulos nativos do Node.js (sem frameworks e sem dependências externas).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "João Pedro Muller",
+  "license": "MIT"
+}
